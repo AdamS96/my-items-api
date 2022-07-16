@@ -1,0 +1,23 @@
+{
+  "name": "my-items-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamS96/my-items-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamS96/my-items-api/issues"
+  },
+  "homepage": "https://github.com/AdamS96/my-items-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
